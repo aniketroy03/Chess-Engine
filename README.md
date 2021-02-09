@@ -7,4 +7,4 @@ Implementation of a Chess Engine using Minimax Algorithm, augmented with Alpha-B
 | Challenge | Solution |
 |:------:|:------:|
 | Dropbox | [Node.js](https://nodejs.org/) |
-|Gooooooooooooooooooooooooogle| [Solution.js](https://github.com/ANIKETROY03/Chess-Engine/blob/main/ChessEngine.js)|
+|Google| [Solution.js](https://github.com/ANIKETROY03/Chess-Engine/blob/main/ChessEngine.js)|
